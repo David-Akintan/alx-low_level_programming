@@ -1,9 +1,9 @@
 #include<stdio.h>
 /*
- * * main - prints the size of the data types present in C 
- * * Description:
- * * This program prints the size of the data types present in C
- *
+ * main - Entry point
+ * Description - 
+ * This program prints the size of the data types present in C
+ * Return - 0
 */
 
 int main(void)
