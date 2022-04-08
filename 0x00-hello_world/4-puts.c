@@ -1,9 +1,9 @@
 #include<stdio.h>
 /**
- *   * main - Entry point
- *   * Description - This program prints a statement
- *   * using puts() function
- *   * Return - 0
+ *  main: Entry point
+ *  Description:This program prints a statement
+ *  using puts() function
+ *  Return:0
 */
 
 int main(void) 

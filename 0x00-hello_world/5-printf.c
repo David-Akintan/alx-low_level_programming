@@ -1,10 +1,7 @@
 #include<stdio.h>
 /*
- *   * main: prints a statement
- *   * Description:
- *   * This program prints 
- *   * "with proper grammar, but the outcome is a piece of art,"
- *   * Return:0
+ *  main: prints a statement
+ *  Return:0
 */
 
 int main(void) 
