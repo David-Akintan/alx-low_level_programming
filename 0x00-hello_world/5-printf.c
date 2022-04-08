@@ -1,5 +1,6 @@
 #include<stdio.h>
 /*
+ *   * main - Entry point
  *   * Description:
  *   * This program prints a statement using printf function
 */
