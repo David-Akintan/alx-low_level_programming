@@ -1,13 +1,12 @@
 #include<stdio.h>
 /**
  *   * Description:
- *   * This program prints "Programming is like a multilingual puzzle"
+ *   * This program prints a statement
  *   * using puts() function
- *
- *    */
+*/
 
-int main() {
+int main(void) 
+{
 	puts("Programming is like building a multilingual puzzle");
-	return 0;
+	return (0);
 }
-
