@@ -1,9 +1,9 @@
 #include<stdio.h>
 /*
- * main - Entry point
- * Description - 
+ * mai: Entry point
+ * Description: 
  * This program prints the size of the data types present in C
- * Return - 0
+ * Return:0
 */
 
 int main(void)
