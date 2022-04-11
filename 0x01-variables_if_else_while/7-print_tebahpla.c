@@ -2,7 +2,8 @@
 
 /**
 *  main - Entry point
-*  Description: prints the lowercase alphabet in reverse
+*  Description: prints the lowercase alphabet in reverse,
+*  followed by a new line.
 *  Return: 0
 */
 

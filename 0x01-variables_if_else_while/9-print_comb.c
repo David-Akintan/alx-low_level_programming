@@ -2,8 +2,8 @@
 
 /**
 * main - Entry point
-* Description: printing numbers from 0-9 with commas
-* and space between them
+* Description: prints all possible combinations of
+* single-digit numbers.
 * Return: 0
 */
 
